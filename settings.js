@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94714188730'
+global.OWNER_REACT = '😎'
+global.REACT_NUMBER = '+94766043171'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "NIPUNA " //ur owner name
-global.ytname = "YT: Nipuna-apps" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
+global.vcardowner = ['+94766043171'] //ur owner number
+global.ownername = "𝙽𝚄𝚆𝙰𝙽 𝚂𝙰𝚃𝙷𝚂𝙰𝚃𝙰 " //ur owner name
+global.ytname = "YT: 𝙽𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻" //ur yt chanel name
+global.socialm = "GitHub: 𝙽𝚄𝚆𝙰𝙽-𝙱𝙾𝚃-2022" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['714188730']
-global.ownertag = '714188730' //ur tag number
-global.botname = '⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜' //ur bot name
+global.owner = ['+94766043171']
+global.ownertag = '+94766043171' //ur tag number
+global.botname = '⚜𝓝𝓾𝔀𝓪𝓷 𝓑𝓸𝓽⚜' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script link
-global.reactmoji = "❤" //ur menu react emoji
+global.reactmoji = "👤" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "NIPUNA" //ur sticker watermark author
+global.packname = "⚜𝓝𝓾𝔀𝓪𝓷 𝓑𝓸𝓽⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "𝙽𝚄𝚆𝙰𝙽 𝚂𝙰𝚃𝙷𝚂𝙰𝚁𝙰" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -85,14 +85,14 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⚜'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
+    success: 'හරි ✓',
+    admin: 'මෙය බාවිත කල හැක්කේ ඇඩ්මින්ලට පමනයි! 🇱🇰',
     botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
+    owner: 'මෙය බාවිත කල හැක්කේ අයිති කරුට පමනයි ! 🇱🇰',
     group: 'Feature Used Only For Groups! 🇱🇰',
-    private: 'Features Used Only For Private Chat! 🇱🇰',
-    bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
+    private: 'මෙය ප්‍රයිවේට් චැට් සදහා පමණයි! 🇱🇰',
+    bot: 'මෙය බොට් සදහා පමණයි ! 🇱🇰',
+    wait: 'ටික වෙලාවක් ඉන්න ! 🇱🇰',
     linkm: 'Where is the link? 🇱🇰',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
